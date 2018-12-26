@@ -1,0 +1,72 @@
+body{
+	height:100%;
+	width:100%;
+}
+#center_maker{
+	width:80%;
+	margin: 0 auto;
+}
+#img1{
+    height: 500px;
+	width:100%;
+}
+#report{
+	display:none;
+	width:70%;
+	margin:0 auto;
+}
+.image_graph{
+	width:60%;
+}
+#graphs{
+	display:none;
+}
+#content{
+	width:100%;
+	padding:15px;
+	font-family:Advent Pro;
+	font-size:25px;
+	text-align:justify;
+    align-content: center;
+}
+#content1{
+	width:100%;
+	padding:15px;
+	font-family:Advent Pro;
+	font-size:15px;
+    align-content: center;
+    margin-top: 60px;
+    margin-bottom: 60px;
+	text-align:center;
+}
+#footer{
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    padding-top: 10px;
+}
+#form1{
+    width: 80%;
+    margin: 0 auto;
+    align-content: center;
+}
+#submit_review{
+    margin: 0 auto;
+}
+#aboutus{
+    width:100%;
+    margin: 0 auto;
+    text-align: center;
+	
+}
+#contactus{
+    width:90%;
+    margin: 0 auto;
+    text-align: center;
+}   
+.button2{
+	width:100px;
+}
+#table_analysis{
+	display:none;
+}
